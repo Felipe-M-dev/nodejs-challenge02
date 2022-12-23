@@ -5,7 +5,7 @@
 - Puntaje total: __10 puntos__ </br>
 - Desarrollo desafío: </br>
   - El desafío se debe desarrollar de manera Grupal. </br>
-  - Para la realización del desafío necesitarás apoyarte del archivo Apoyo Desafío - Mi Repertorio.
+  - Para la realización del desafío necesitarás apoyarte del archivo _Apoyo Desafío - Mi Repertorio._
   
 ## Descripción
 
